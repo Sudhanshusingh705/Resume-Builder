@@ -37,4 +37,4 @@ npm run client
 
 ## Demo :
 
-Click [this](https://youtu.be/JkcP06CYVpc) link to see the demo.
+Click [this]() link to see the demo.
